@@ -27,4 +27,4 @@ Git Bash / Linux: `./mvnw -pl lab08 test`.
 
 Условие: https://github.com/ITP2026/java-labs-starter/blob/main/assignments/lab08-concurrency.md
 
-Конспект: [Конспект](../KONSPEKT.md). Ветка сдачи: `lab/08-concurrency`.
+Ветка сдачи: `lab/08-concurrency`.

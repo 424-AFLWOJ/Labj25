@@ -27,4 +27,4 @@ Git Bash / Linux: `./mvnw -pl lab06 test`.
 
 Условие: https://github.com/ITP2026/java-labs-starter/blob/main/assignments/lab06-generics-collections.md
 
-Конспект: [Конспект](../KONSPEKT.md). Ветка сдачи: `lab/06-generics`.
+Ветка сдачи: `lab/06-generics`.

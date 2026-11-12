@@ -27,4 +27,4 @@ Git Bash / Linux: `./mvnw -pl lab07 test`.
 
 Условие: https://github.com/ITP2026/java-labs-starter/blob/main/assignments/lab07-stream-api.md
 
-Конспект: [Конспект](../KONSPEKT.md). Ветка сдачи: `lab/07-streams`.
+Ветка сдачи: `lab/07-streams`.

@@ -27,4 +27,4 @@ Git Bash / Linux: `./mvnw -pl lab05 test`.
 
 Условие: https://github.com/ITP2026/java-labs-starter/blob/main/assignments/lab05-files-validation.md
 
-Конспект: [Конспект](../KONSPEKT.md). Ветка сдачи: `lab/05-files`.
+Ветка сдачи: `lab/05-files`.
